@@ -40,6 +40,19 @@ The course will cover the principles, practical implementation, and applications
 - Introductory bioinformatics and data quality control
 - Comparative evaluation and project work
 
+**Course Instructors**      
+
+- [Mike Quail](https://www.sanger.ac.uk/person/quail-michael/), Wellcome Sanger Institute, United Kingdom
+- [Kim Judge](https://www.sanger.ac.uk/person/judge-kim/), Wellcome Sanger Institute, United Kingdom
+
+**Scientific Training and Events - Wellcome Sanger Institute Team**
+
+- [Liã Barbara Arruda](https://www.linkedin.com/in/libarbara/), Education Developer
+- [Martin Aslett](https://www.linkedin.com/in/martinaslett/), Informatics Training Lead 
+- [Vaishnavi Vikas Gangadhar](https://www.linkedin.com/in/vaishnavi-gangadhar/), Informatics Technical Developer
+- [Cassandra Soo](https://www.linkedin.com/in/cassandra-claire-soo-b3783277/), Laboratory Training Lead
+- [Christopher Adamson](https://www.linkedin.com/in/chris-adamson-profile/), Laboratory Technical and Operations Developer
+
 ### Course Runs     
 
 | Course Date | Course Title | Location |Citation DOI |
